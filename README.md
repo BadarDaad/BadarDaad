@@ -2,7 +2,7 @@
 - 👀 I’m interested in App development.
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Android flutter developer
-- 📫 You can conttect me through my E-mail Badardaad61@gmail.com
+- 📫 You can contact me through my E-mail Badardaad61@gmail.com
 
 <!---
 BadarDaad/BadarDaad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
