@@ -37,7 +37,7 @@
     <img height="50" src="https://img.icons8.com/color/50/000000/dart.png" alt="Dart">
   </a>
    <a href="https://getbootstrap.com/" target="_blank">
-    <img height="50" src="[https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap">
+    <img height="50" src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img height="50" src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript">
