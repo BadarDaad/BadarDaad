@@ -27,44 +27,10 @@
 ## Languages and Tools:
 
 <div>
-
-  <a href="https://flutter.dev/" target="_blank">
-    <img height="50" src="https://img.icons8.com/color/50/000000/flutter.png" alt="Flutter">
-  </a>
- 
-  <a href="https://dart.dev/" target="_blank">
-    <img height="50" src="https://img.icons8.com/color/50/000000/dart.png" alt="Dart">
-  </a>
-
-   <a href="https://developer.android.com/" target="_blank">
-    <img height="50" src="https://img.icons8.com/color/50/000000/android-os.png" alt="Android">
-  </a>
-  
-   <a href="https://getbootstrap.com/" target="_blank">
-    <img height="50" src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img height="50" src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript">
-  </a>
-  
- 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img height="50" src="https://img.icons8.com/color/50/000000/html-5.png" alt="HTML">
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img height="50" src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS">
-  </a>
-  
-  <a href="https://www.php.net/" target="_blank">
-    <img height="45" src="https://img.icons8.com/color/50/000000/php.png" alt="PHP">
-  </a>
-  
 <p>
-  
 </p>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,figma,xd&perline=5)](https://skillicons.dev)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=badardaad&show_icons=true&locale=en&layout=compact)
