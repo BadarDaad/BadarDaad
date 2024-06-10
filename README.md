@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @BadarDaad
+<h1 align="center">Hi 👋, I'm Badar Dad</h1>
+<h3 align="center">A passionate Flutter Developer</h3>
+
 - 👀 I’m interested in App development.
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Android flutter developer
