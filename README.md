@@ -30,6 +30,6 @@
 </p>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,js,html,css,figma,ai,ps,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,git,js,html,css,figma,ai,ps,xd&perline=5)](https://skillicons.dev)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=badardaad&show_icons=true&locale=en&layout=compact)
