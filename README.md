@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badardaad&label=Profile%20views&color=0e75b6&style=flat" alt="badardaad" /> </p>
 
-<p align="left"> <a href="www.instagram.com/iam_bdr" target="blank"><img src="https://img.shields.io/twitter/follow/iam_bdr?logo=twitter&style=for-the-badge" alt="badardaad"</p>
+<p align="left"> <a href="https://www.instagram.com/iam_bdr" target="blank"><img src="https://img.shields.io/twitter/follow/iam_bdr?logo=twitter&style=for-the-badge" alt="badardaad"</p>
 
 
 - 👀 I’m interested in App development.
