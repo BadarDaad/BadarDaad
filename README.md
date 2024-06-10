@@ -59,9 +59,12 @@
   <a href="https://www.php.net/" target="_blank">
     <img height="45" src="https://img.icons8.com/color/50/000000/php.png" alt="PHP">
   </a>
+  
 <p>
   
 </p>
 </div>
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=badardaad&show_icons=true&locale=en&layout=compact)
