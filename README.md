@@ -31,6 +31,6 @@
 </p>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,figma,ai,ps,xd&perline=5)](https://skillicons.dev)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=badardaad&show_icons=true&locale=en&layout=compact)
