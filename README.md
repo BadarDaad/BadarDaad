@@ -31,11 +31,15 @@
   <a href="https://flutter.dev/" target="_blank">
     <img height="50" src="https://img.icons8.com/color/50/000000/flutter.png" alt="Flutter">
   </a>
-
-  
+ 
   <a href="https://dart.dev/" target="_blank">
     <img height="50" src="https://img.icons8.com/color/50/000000/dart.png" alt="Dart">
   </a>
+
+   <a href="https://developer.android.com/" target="_blank">
+    <img height="50" src="https://img.icons8.com/color/50/000000/android-os.png" alt="Android">
+  </a>
+  
    <a href="https://getbootstrap.com/" target="_blank">
     <img height="50" src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap">
   </a>
@@ -43,10 +47,7 @@
     <img height="50" src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript">
   </a>
   
-  <a href="https://developer.android.com/" target="_blank">
-    <img height="50" src="https://img.icons8.com/color/50/000000/android-os.png" alt="Android">
-  </a>
-  
+ 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img height="50" src="https://img.icons8.com/color/50/000000/html-5.png" alt="HTML">
   </a>
