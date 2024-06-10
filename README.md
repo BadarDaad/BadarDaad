@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ## Connect with me:
-google-site-verification: google28c368fcc64178ad.html
+
 <div id="badges">
   <a href="https://github.com/badardaad/">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
