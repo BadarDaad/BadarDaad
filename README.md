@@ -59,5 +59,7 @@
   <a href="https://www.php.net/" target="_blank">
     <img height="45" src="https://img.icons8.com/color/50/000000/php.png" alt="PHP">
   </a>
-  
+
 </div>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=badardaad&show_icons=true&locale=en&layout=compact)
