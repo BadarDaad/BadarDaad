@@ -9,7 +9,7 @@
 
 
 - 👀 I’m interested in App development.
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m an experienced Flutter Developer
 - 💞️ I’m looking to collaborate on Android flutter developer
 - 📫 You can contact me through my E-mail Badardaad61@gmail.com
 
